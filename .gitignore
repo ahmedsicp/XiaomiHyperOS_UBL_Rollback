@@ -1,0 +1,12 @@
+tools/
+repos/
+device/
+logs/
+backups/
+__pycache__/
+*.pyc
+*.zip
+*.tgz
+*.bin
+*.img
+*.elf
